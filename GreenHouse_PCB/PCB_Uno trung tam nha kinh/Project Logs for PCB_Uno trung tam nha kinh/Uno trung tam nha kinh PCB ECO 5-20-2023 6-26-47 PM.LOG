@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND1 Pin=LCD1-1
+Added Pin To Net: NetName=5VDC Pin=LCD1-2
+Added Pin To Net: NetName=GND1 Pin=LCD2-1
+Added Pin To Net: NetName=5VDC Pin=LCD2-2
+Added Room: Name=Uno trung tam nha kinh

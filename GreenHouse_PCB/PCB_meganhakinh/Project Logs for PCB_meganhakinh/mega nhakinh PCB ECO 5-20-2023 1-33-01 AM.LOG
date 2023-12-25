@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=DIO0 Pin=Arduino1-~9
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=+3V3 Pin=U3-3
+Removed Pin From Net: NetName=DIO0 Pin=U3-5
+Removed Pin From Net: NetName=SCK Pin=U3-12
+Removed Pin From Net: NetName=MISO Pin=U3-13
+Removed Pin From Net: NetName=MOSI Pin=U3-14
+Added Component: Designator=C3(CA-ALU-4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=M1(NRF24L01)
+Added Pin To Net: NetName=DIO0 Pin=Arduino1-2
+Added Pin To Net: NetName=GND1 Pin=C3-2
+Added Pin To Net: NetName=GND1 Pin=M1-1
+Added Pin To Net: NetName=3V3 Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=M1-8
+Added Net: Name=3V3
+Added Pin To Net: NetName=9 Pin=Arduino1-~9
+Added Pin To Net: NetName=9 Pin=M1-2
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=Arduino1-~10
+Added Pin To Net: NetName=10 Pin=M1-7
+Added Net: Name=10
+Added Pin To Net: NetName=50 Pin=M1-4
+Added Net: Name=50
+Added Pin To Net: NetName=51 Pin=M1-6
+Added Net: Name=51
+Added Pin To Net: NetName=52 Pin=M1-3
+Added Net: Name=52
+Added Member To Class: ClassName=mega nhakinh Member=Component C3 10uF
+Added Member To Class: ClassName=mega nhakinh Member=Component M1 NRF24L01
+Added Room: Name=mega nhakinh

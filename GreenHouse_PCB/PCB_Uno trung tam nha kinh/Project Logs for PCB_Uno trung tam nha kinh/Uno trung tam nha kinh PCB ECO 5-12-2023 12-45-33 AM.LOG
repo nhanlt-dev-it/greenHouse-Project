@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=2
+Added Pin To Net: NetName=Net1_1 Pin=U2-1
+Added Pin To Net: NetName=Net1_2 Pin=U2-2
+Added Room: Name=Uno trung tam nha kinh

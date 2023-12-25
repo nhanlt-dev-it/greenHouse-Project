@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=D7 Pin=ArduinoUNO R1-7
+Removed Pin From Net: NetName=D0 Pin=ArduinoUNO R1-A2
+Removed Pin From Net: NetName=SDA Pin=ArduinoUNO R1-A4
+Removed Pin From Net: NetName=SCL Pin=ArduinoUNO R1-A5
+Removed Pin From Net: NetName=GND Pin=ArduinoUNO R1-GND
+Removed Pin From Net: NetName=GND Pin=ArduinoUNO R1-GND
+Removed Pin From Net: NetName=GND Pin=ArduinoUNO R1-GND
+Removed Pin From Net: NetName=GND Pin=ArduinoUNO R1-GND
+Removed Pin From Net: NetName=GND Pin=ArduinoUNO R1-GND
+Removed Pin From Net: NetName=GND Pin=ArduinoUNO R1-GND
+Removed Pin From Net: NetName=D6 Pin=ArduinoUNO R1-~6
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Removed Pin From Net: NetName=+5 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+5 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=GND Pin=LCD?-1
+Removed Pin From Net: NetName=+5 Pin=MCU1-15
+Removed Pin From Net: NetName=+5 Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=1
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=ArduinoUNO R1
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=C4
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=C5
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=U2
+Removed Member From Class: ClassName=Uno trung tam nha kinh Member=U3
+Change Component Footprint: Designator=C2 Old Footprint=CA-ALU-8 New Footprint=CA-ALU-4
+Change Component Footprint: Designator=C1 Old Footprint=CN2-T New Footprint=CA-ALU-10R
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=220uf
+Change Component Comment : Designator=C2 Old Comment=470uF/10V New Comment=10uF
+Change Component Designator: OldDesignator=LCD? NewDesignator=LCD2
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CN2-T"; UniqueID = "\EYJEUQAY" ("\EYJEUQAY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=Cx1(CN2-T)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN2-T)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(KF2-5.08)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110002"; VariantName = "[No Variations]"
+Added Component: Designator=M1(NRF24L01)
+Added Component: Designator=SW1(SW_TOGGLE_7101P3YZQE)
+Add component (AddParameter): Name = "Actuator Length"; Value = "11.43mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Brass, Chrome Plated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Flat Anti-Rotation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bushing Thread"; Value = "1/4-40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.ckswitches.com/media/1394/7000toggle.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ckswitches.com/media/1394/7000toggle.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A (AC/DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100,000 Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Epoxy Sealed Terminals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type, Color"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Voltage (Nominal)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "7101P3YZQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Panel Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Panel Cutout Dimensions"; Value = "Circular - 6.35mm Dia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=6.11, 10=5.801, 25=5.648, 50=5.4954, 100=5.3428, 250=5.03744, 500=4.2742, 1000=4.04523 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CKN1019-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Solder Lug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating - AC"; Value = "120V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating - DC"; Value = "28V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=GND Pin=Cx2-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=D5 Pin=M1-3
+Added Pin To Net: NetName=D6 Pin=M1-4
+Added Pin To Net: NetName=D7 Pin=M1-6
+Added Pin To Net: NetName=SDA Pin=MCU1-28
+Added Pin To Net: NetName=SCL Pin=MCU1-29
+Added Pin To Net: NetName=D0 Pin=MCU1-30
+Added Pin To Net: NetName=GND Pin=U1-2
+Change Net Name : Old Net Name=GND New Net Name=GND1
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=M1-8
+Added Pin To Net: NetName=3V3 Pin=MCU1-11
+Added Net: Name=3V3
+Added Pin To Net: NetName=5VDC Pin=C1-1
+Added Pin To Net: NetName=5VDC Pin=C3-1
+Added Pin To Net: NetName=5VDC Pin=Cx2-2
+Added Pin To Net: NetName=5VDC Pin=MCU1-15
+Added Pin To Net: NetName=5VDC Pin=U1-4
+Added Net: Name=5VDC
+Added Pin To Net: NetName=12V Pin=J1-2
+Added Pin To Net: NetName=12V Pin=SW1-2
+Added Net: Name=12V
+Added Pin To Net: NetName=A0 Pin=MCU1-1
+Added Net: Name=A0
+Added Pin To Net: NetName=D3 Pin=M1-7
+Added Pin To Net: NetName=D3 Pin=MCU1-27
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=M1-2
+Added Pin To Net: NetName=D4 Pin=MCU1-26
+Added Net: Name=D4
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCx1_2 Pin=Cx1-2
+Added Pin To Net: NetName=NetCx1_2 Pin=SW1-3
+Added Pin To Net: NetName=NetCx1_2 Pin=U1-1
+Added Net: Name=NetCx1_2
+Added Member To Class: ClassName=Uno trung tam nha kinh Member=Component Cx1 104
+Added Member To Class: ClassName=Uno trung tam nha kinh Member=Component Cx2 104
+Added Member To Class: ClassName=Uno trung tam nha kinh Member=Component J1 KF2
+Added Member To Class: ClassName=Uno trung tam nha kinh Member=Component M1 NRF24L01
+Added Member To Class: ClassName=Uno trung tam nha kinh Member=Component SW1 7101P3YZQE
+Added Room: Name=Uno trung tam nha kinh

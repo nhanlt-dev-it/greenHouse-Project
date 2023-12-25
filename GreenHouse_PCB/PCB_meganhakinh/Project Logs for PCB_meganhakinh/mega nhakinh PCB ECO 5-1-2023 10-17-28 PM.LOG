@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=D3-2
+Removed Pin From Net: NetName=VCC Pin=RL1-5
+Removed Pin From Net: NetName=VCC Pin=RL3-5
+Added Pin To Net: NetName=+12VDC Pin=D1-2
+Added Pin To Net: NetName=+12VDC Pin=D3-2
+Added Pin To Net: NetName=+12VDC Pin=RL1-5
+Added Pin To Net: NetName=+12VDC Pin=RL3-5
+Added Room: Name=mega nhakinh
